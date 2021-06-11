@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "5f4d2dc349a0916f6fec1a45",
+    "name": "Admin",
+    "password": "123456",
+    "role": "Admin",
+    "enabled": true,
+    "permissions": {
+      "super-admin": 3,
+      "user-management": 3,
+      "customer-management": 3,
+      "driver-management": 3,
+      "business-management": 3,
+      "order-management": 3,
+      "invoice-management": 3,
+      "content-management": 3,
+      "settings": 3
+    },
+    "username": "admin",
+    "email": "admin@pikdelivery.com"
+  }
+]

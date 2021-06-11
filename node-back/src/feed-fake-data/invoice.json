@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "5f575ecd62669f66350c84b5",
+    "business":"5f5359626c4abc2a899889c9",
+    "businessName": "business 1",
+    "items": [{
+      "description": "desc item 1",
+      "amount":60
+    }],
+    "date": "2020-05-06",
+    "discount": 10,
+    "logs":[{
+      "date":"2020-05-06",
+      "description": "Invoice created."
+    }],
+    "status": "open"
+  }
+]

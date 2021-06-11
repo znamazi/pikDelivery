@@ -1,0 +1,28 @@
+{
+  "langSwitch": {
+    "current": "Española",
+    "title": "Seleccione el idioma"
+  },
+  "pages": {
+    "accountHome": {
+      "menu": {
+        "profile": {"title": "Editar perfil", "description":  "Informacion personal"},
+        "support": {"title": "Centro de apoyo", "description":  "Necesitas ayuda?"},
+        "payment": {"title": "Mis pagos", "description":  "Detalles de ganancias"},
+        "address": {"title": "Mis direcciones", "description":  "Directorio"},
+        "settings": {"title": "Ajustes", "description":  "Notificaciones"},
+        "about": {"title": "Sobre PIK", "description":  "Sobre nosotros"},
+        "share": {"title": "Cuota", "description":  "Cuota"},
+        "logout": {"title": "Cerrar sesión", "description":  "Salir de Entrega PIK"}
+      }
+    }
+  },
+  "bottomMenu": {
+    "home": "Hogar",
+    "travels": "Viajes",
+    "me": "Me"
+  },
+  "general": {
+    "Hello": "Hola"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sidebar": {
+    "Dashboard": "Dashboard",
+    "Customers": "Kunden",
+    "Drivers": "Fahrer",
+    "Business": "Geschäft",
+    "Orders": "Bestellungen",
+    "Invoices": "Rechnungen",
+    "Transactions": "Transaktionen",
+    "Custom Section": "Benutzerdefinierter Bereich",
+    "Eagle": "ÁguAdlerila",
+    "Settings": "Einstellungen",
+    "Content Management": "Content Management",
+    "Support Chat": "Support Chat"
+  },
+  "header": {
+    "Logout": "Ausloggen",
+    "Hi": "Hallo"
+  },
+  "pages": {
+    "dashboard": {
+      "Site Statistics": "Site-Statistiken"
+    }
+  }
+}

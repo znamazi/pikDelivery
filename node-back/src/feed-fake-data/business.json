@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "5f5359626c4abc2a899889c9",
+    "name": "Business_1",
+    "phone": 987456321,
+    "mobile": 987456321,
+    "email": "MyBusiness_1@gmail.com",
+    "logo": "https://preview.keenthemes.com/metronic/theme/html/demo1/dist/assets/media/svg/avatars/045-boy-20.svg",
+
+    "location": {
+      "type": "Point",
+      "coordinates": [55.3951755465497, -3.48112336143829]
+    },
+    "timeFrames": [
+      {"open": "08:00", "close": "18:00", "totallyClosed": true },
+      { "open": "08:00", "close": "18:00", "totallyClosed": false },
+      { "open": "08:00", "close": "18:00", "totallyClosed": false },
+      { "open": "08:00", "close": "18:00", "totallyClosed": false },
+      { "open": "08:00", "close": "18:00", "totallyClosed": false },
+      { "open": "08:00", "close": "18:00", "totallyClosed": false },
+      { "open": "08:00", "close": "18:00", "totallyClosed": false }
+    ],
+    "about": "",
+    "status": "Active",
+    "coverageMaxValue": 0,
+    "enabled": true
+  },
+  {
+    "_id": "5f55e3dd18f2171b8c3359ed",
+    "name": "Business_2",
+    "phone": 987456321,
+    "mobile": 987456321,
+    "email": "MyBusiness_2@gmail.com",
+    "logo": "https://preview.keenthemes.com/metronic/theme/html/demo1/dist/assets/media/svg/avatars/045-boy-20.svg",
+    "location": {
+      "type": "Point",
+      "coordinates": [55.3951755465497, -3.48112336143829]
+    },
+        "timeFrames": [
+          {"open": "08:00", "close": "18:00", "totallyClosed": true },
+          { "open": "08:00", "close": "18:00", "totallyClosed": false },
+          { "open": "08:00", "close": "18:00", "totallyClosed": false },
+          { "open": "08:00", "close": "18:00", "totallyClosed": false },
+          { "open": "08:00", "close": "18:00", "totallyClosed": false },
+          { "open": "08:00", "close": "18:00", "totallyClosed": false },
+          { "open": "08:00", "close": "18:00", "totallyClosed": false }
+    ],
+    "about": "",
+    "status": "Active",
+    "coverageMaxValue": 0,
+    "enabled": true
+  }
+]

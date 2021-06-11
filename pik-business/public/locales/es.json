@@ -1,0 +1,29 @@
+{
+  "sidebar": {
+    "Dashboard": "Tablero",
+    "Customers": "Clientes",
+    "Drivers": "Conductores",
+    "Business": "Negocio",
+    "Orders": "Pedidos",
+    "Invoices": "Facturas",
+    "Transactions": "Actas",
+    "Custom Section": "Sección Personalizada",
+    "Eagle": "Águila",
+    "Settings": "Configuraciones",
+    "Content Management": "Gestión De Contenido",
+    "Support Chat": "Chat De Soporte"
+  },
+  "header": {
+    "Logout": "Cerrar Sesión",
+    "Hi": "Hola"
+  },
+
+  "pages": {
+    "dashboard": {
+      "Site Statistics": "Estadísticas Del Sitio",
+      "Customers": "Clientes",
+      "Drivers": "Conductores",
+      "Business": "Negocio"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "pik-node-back",
+            "script": "npm",
+            "args" : "start",
+            "watch"  : true,
+            "ignore_watch": ["node_modules", "user_files", "logs"],
+            "autorestart": true,
+            "max_memory_restart": "2G",
+            "error_file": "logs/errors.log",
+            "out_file": "logs/output.log",
+            "log_file": "logs/combined.log"
+        }
+    ]
+}

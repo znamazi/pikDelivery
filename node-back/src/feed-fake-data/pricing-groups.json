@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Standard",
+    "itbms": 0.07,
+    "cancelFee": 0.1,
+    "returnFee": 0.1,
+    "pikCommission": 0.5,
+    "prices": {
+      "Motorcycle": {
+        "basePrice": 5,
+        "kmPrice": 1
+      },
+      "Car": {
+        "basePrice": 10,
+        "kmPrice": 2
+      },
+      "Pickup": {
+        "basePrice": 20,
+        "kmPrice": 4
+      }
+    }
+  },
+  {
+    "title": "Business",
+    "cancelFee": 0.1,
+    "returnFee": 0.1,
+    "pikCommission": 0.2,
+    "prices": {
+      "Motorcycle": {
+        "basePrice": 5,
+        "kmPrice": 1
+      },
+      "Car": {
+        "basePrice": 10,
+        "kmPrice": 2
+      },
+      "Pickup": {
+        "basePrice": 20,
+        "kmPrice": 4
+      }
+    }
+  },
+  {
+    "title": "Enterprise",
+    "cancelFee": 0,
+    "returnFee": 0,
+    "pikCommission": 0.1,
+    "prices": {
+      "Motorcycle": {
+        "basePrice": 5,
+        "kmPrice": 1
+      },
+      "Car": {
+        "basePrice": 10,
+        "kmPrice": 2
+      },
+      "Pickup": {
+        "basePrice": 20,
+        "kmPrice": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,264 @@
+.quick-search {
+  border: 1px solid #b9bed0;
+  margin: 10px 20px;
+  border-radius: 25px;
+  /* padding-top: 3px; */
+  /* max-width: 270px; */
+}
+.btnAddFilter {
+  position: absolute;
+  right: 0;
+  margin-right: 15px;
+}
+.btn-save-cancel {
+  display: inline-block;
+  /* float: right; */
+  margin-bottom: 5px;
+}
+.border-gray {
+  border: 1px solid #c1c1cc;
+}
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.space-evenly {
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.input-edit {
+  border: none;
+  width: 100px;
+}
+.width-100 {
+  width: 100px;
+}
+
+.btn-white {
+  background-color: white;
+  border-color: black !important;
+  color: black important;
+}
+.btn-white:hover {
+  background-color: whitesmoke !important;
+  border-color: black !important;
+  color: black important;
+}
+.logo-register {
+  width: 100px !important;
+  height: 50px !important;
+  margin: 20px auto !important;
+}
+.setup-header {
+  background-color: #d0caca;
+  padding: 10px;
+}
+.margin-auto {
+  margin: 0 auto;
+}
+.mt--13 {
+  margin-top: -13px !important;
+}
+.table-cost tr td {
+  border: none;
+}
+.driver-personalID {
+  height: 100px;
+  padding: 45px 15px 0;
+}
+.driver-photo {
+  height: 100px;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 0;
+  background-color: #cfd1d6;
+}
+.driver-photo img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.driver-licence {
+  height: 200px;
+  width: 400px;
+}
+
+.bottom-8 {
+  bottom: 8px;
+}
+.bottom-4 {
+  bottom: 4px;
+}
+.right-12 {
+  right: 12px;
+}
+.min-h-35px {
+  min-height: 35px !important;
+}
+
+.min-height-250 {
+  min-height: 250px;
+}
+.documentWaiting {
+  text-align: center;
+  margin: 31px;
+  padding: 30px;
+  font-weight: bold;
+}
+.min-w-155px {
+  min-width: 155px !important;
+}
+.driver-vehicle-photo {
+  border: 2px solid gray;
+  border-radius: 10px;
+  height: 150px;
+  margin: 5px;
+  padding: 10px !important;
+}
+.driver-vehicle-photo img {
+  width: 100%;
+  height: 100%;
+}
+
+.document-photo {
+  border: 2px solid gray;
+  border-radius: 10px;
+  height: 150px;
+  margin: 5px;
+  padding: 10px !important;
+}
+.document-photo img {
+  width: 100%;
+  height: 100%;
+}
+
+.color-green {
+  color: rgb(20, 187, 20);
+}
+.message-box-route {
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 3px 25px 0px 0px;
+  background-color: #ffe599;
+}
+
+.circle {
+  position: relative;
+  /* border: 2px solid #999;
+  border-radius: 100%; */
+  /* width: 50px; */
+  line-height: 55px;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #fff;
+  z-index: 2;
+  top: -50px;
+}
+.circle:first-child {
+  margin-top: 0px;
+  top: -15px;
+}
+.circle:before {
+  position: absolute;
+  border: 1px dotted #999;
+  width: 0;
+  height: 70px;
+  display: block;
+  content: '';
+  left: 50%;
+  z-index: 1;
+  top: -60px;
+  margin-left: -1px;
+}
+.circle:first-child:before {
+  display: none;
+}
+
+.label-light-return {
+  background-color: #fbd8b5;
+  color: #a06e3a;
+}
+
+.label-light-pending {
+  background-color: #b9d3d7;
+  color: #3f727d;
+}
+.label-light-confirm {
+  background-color: #b7d4fa;
+  color: #5191ea;
+}
+.react-datepicker-wrapper {
+  width: 100%;
+}
+.width-100-percent {
+  width: 100% !important;
+}
+.width-70-percent {
+  width: 70% !important;
+}
+.input-group-2 {
+  position: relative;
+  flex-wrap: wrap;
+  display: -webkit-box;
+  -moz-box-align: stretch;
+  align-items: stretch;
+  width: 100%;
+}
+.container-plus-minus {
+  position: absolute;
+  right: 8px;
+  top: 20px;
+}
+.btn-eagle {
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 10px 3px;
+  font-size: 12px;
+  text-align: center;
+  margin-right: 3px;
+  margin-top: 3px;
+}
+.search-eagle {
+  border-radius: 5px !important;
+  margin-right: 3px;
+}
+.btn-light {
+  border-color: #dcddde !important;
+}
+.mt-55 {
+  margin-top: 55px !important;
+}
+.border-bottom-modal {
+  border-bottom: 1px solid #b9b9b9;
+}
+.border-action-bottom {
+  border-color: #f3f6f9 !important;
+}
+.bg-black {
+  background-color: black !important;
+}
+.primary-color-gradient {
+  background: linear-gradient(to bottom right, #f12711 0%, #f5af19 100%);
+  color: white;
+}
+/* .modal-header {
+  padding: 10px 1.75rem 8px !important;
+} */
+.week-change:hover {
+  cursor: pointer;
+}
+
+.max-width-80 {
+  max-width: 80px !important;
+}
+.margin-top-eagle {
+  margin: -35px !important;
+}
+.bottomLink span:hover {
+  cursor: pointer;
+}
+.right-40 {
+  right: 40px;
+}

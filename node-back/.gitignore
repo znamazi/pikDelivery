@@ -1,0 +1,11 @@
+/dist
+/logs
+/npm-debug.log
+/node_modules
+/.idea
+.DS_Store
+
+/user_files/upload
+
+# dotenv environment variables file
+.env

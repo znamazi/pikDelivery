@@ -1,0 +1,23 @@
+{
+  "langSwitch": {
+    "current": "Española",
+    "title": "Seleccione el idioma"
+  },
+  "pages": {
+    "accountHome": {
+      "menu": {
+        "support": {"title": "Centro de apoyo", "description":  "Necesitas ayuda?"},
+        "earnings": {"title": "Mis pagos", "description":  "Detalles de ganancias"},
+        "bankAccount": {"title": "Recibir salario", "description":  "Detalles de cuenta bancaria"},
+        "profile": {"title": "Editar perfil", "description":  "Informacion personal"},
+        "vehicle": {"title": "Información del vehículo", "description":  "Garaje"},
+        "settings": {"title": "Ajustes", "description":  "Notificaciones"},
+        "legalTerms": {"title": "Términos legales", "description":  "Acuerdos"},
+        "logout": {"title": "Cerrar sesión", "description":  "Salir de PIK Rider"}
+      }
+    }
+  },
+  "general": {
+    "Hello": "Hola"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "langSwitch": {
+    "current": "English",
+    "title": "Select Language"
+  },
+  "pages": {
+    "accountHome": {
+      "menu": {
+        "profile": {"title": "Edit Profile", "description":  "Personal Information"},
+        "support": {"title": "Support Center", "description":  "Need help?"},
+        "payment": {"title": "Payment Methods", "description":  "Credit Card List"},
+        "address": {"title": "My Addresses", "description":  "Address Book"},
+        "settings": {"title": "Settings", "description":  "Notifications"},
+        "about": {"title": "About PIK", "description":  "About Us"},
+        "share": {"title": "Share", "description":  "Share"},
+        "logout": {"title": "Logout", "description":  "Exit from PIK Delivery"}
+      }
+    }
+  },
+  "bottomMenu": {
+    "home": "Home",
+    "travels": "Travels",
+    "me": "Me"
+  },
+  "general": {
+    "Hello": "Hello"
+  }
+}

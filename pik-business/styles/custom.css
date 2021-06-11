@@ -1,0 +1,312 @@
+.quick-search {
+  border: 1px solid #b9bed0;
+  margin: 10px 20px;
+  border-radius: 25px;
+  /* padding-top: 3px; */
+  /* max-width: 270px; */
+}
+.btnAddFilter {
+  position: absolute;
+  right: 0;
+}
+.btn-save-cancel {
+  display: inline-block;
+  /* float: right; */
+  margin-bottom: 5px;
+}
+.border-gray {
+  border: 1px solid #c1c1cc;
+}
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.space-evenly {
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.input-edit {
+  border: none;
+}
+.bottom-8 {
+  bottom: 8px;
+}
+.bottom-4 {
+  bottom: 4px;
+}
+.right-10 {
+  right: 10px;
+}
+.right-40 {
+  right: 40px;
+}
+.csv-input {
+  padding: 10px;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.table td.fit,
+.table th.fit {
+  white-space: nowrap;
+  width: 1%;
+}
+.text-gray {
+  color: gray;
+}
+.right-20 {
+  right: 20px;
+}
+
+.btn-white {
+  background-color: white;
+  border-color: black !important;
+  color: black important;
+}
+.btn-white:hover {
+  background-color: whitesmoke !important;
+  border-color: black !important;
+  color: black important;
+}
+.react-tel-input input {
+  width: 100% !important;
+}
+.min-w-155px {
+  min-width: 155px !important;
+}
+.pin-center {
+  position: fixed;
+  /*center the marker*/
+  z-index: 1;
+  /*fix offset when needed*/
+  margin-left: -10px;
+  margin-top: -34px;
+  /*size of the image*/
+  height: 34px;
+  width: 20px;
+  /* background-color: red; */
+  cursor: pointer;
+}
+.pin-text {
+  min-width: 120px;
+  position: fixed;
+  margin-left: -37px;
+  margin-top: -37px;
+  font-weight: bold;
+}
+
+.pin-container {
+  height: 50vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.pin-container > svg {
+  position: absolute;
+  top: calc(50% - 25px);
+  z-index: 1;
+}
+
+.pin-container > .loading {
+  position: absolute;
+  top: calc(50% - 50px);
+  left: calc(50% - 50px);
+  z-index: 1;
+}
+.container-circle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px dotted gray;
+  padding-top: 15px;
+  margin-top: 15px;
+}
+
+.container-circle div {
+  background-color: #ffffff;
+  margin-top: -40px;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+}
+
+.container-history {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-history div {
+  text-align: center;
+}
+.card-type {
+  padding: 5px;
+  background: #5d5d5d;
+  border-radius: 3px;
+  margin-right: 10px;
+  color: white;
+}
+
+.MuiNativeSelect-select.MuiNativeSelect-select {
+  padding-left: 10px !important;
+}
+
+.label-light-return {
+  background-color: #fbd8b5;
+  color: #a06e3a;
+}
+
+.label-light-pending {
+  background-color: #b9d3d7;
+  color: #3f727d;
+}
+
+.label-light-confirm {
+  background-color: #b7d4fa;
+  color: #5191ea;
+}
+.question-box {
+  border: 1px solid gray;
+  border-radius: 3px;
+  background-color: #e8eaf3;
+}
+.react-datepicker-wrapper {
+  width: 100%;
+}
+.width-70-percent {
+  width: 70%;
+}
+.width-75-percent {
+  width: 75%;
+}
+.width-100-percent {
+  width: 100%;
+}
+.btn-light {
+  border-color: #dcddde !important;
+}
+.input-group-2 {
+  position: relative;
+  flex-wrap: wrap;
+  display: -webkit-box;
+  -moz-box-align: stretch;
+  align-items: stretch;
+  width: 100%;
+}
+.react-datepicker-wrapper {
+  width: 100%;
+}
+.mt-55 {
+  margin-top: 55px !important;
+}
+
+.border-bottom-modal {
+  border-bottom: 1px solid #b9b9b9;
+}
+
+.border-action-bottom {
+  border-color: #f3f6f9 !important;
+}
+
+.pin-container > svg {
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -100%) !important;
+  z-index: 1 !important;
+}
+
+.bg-black {
+  background-color: black !important;
+}
+
+.btn-primary {
+  color: #ffffff;
+  background: linear-gradient(
+    to bottom right,
+    #f12711 0%,
+    #f5af19 100%
+  ) !important;
+  border-color: #f36214 !important;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.btn-primary:hover {
+  color: #ffffff;
+  background: linear-gradient(
+    to bottom right,
+    #f1240d 0%,
+    #eca814 100%
+  ) !important;
+  border-color: #f36214 !important;
+}
+.btn-primary:focus,
+.btn-primary.focus {
+  color: #ffffff;
+  background: linear-gradient(
+    to bottom right,
+    #f1240d 0%,
+    #eca814 100%
+  ) !important;
+  border-color: #f36214 !important;
+  -webkit-box-shadow: 0 0 0 0.2rem #f127119f;
+  box-shadow: 0 0 0 0.2rem rgba(84, 168, 255, 0.5);
+}
+.btn-primary.disabled,
+.btn-primary:disabled {
+  color: #ffffff;
+  background: linear-gradient(
+    to bottom right,
+    #d12d1b 0%,
+    #dfa11c 100%
+  ) !important;
+  border-color: #f36214 !important;
+}
+.btn-primary:not(:disabled):not(.disabled):active,
+.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: #ffffff;
+  background: linear-gradient(
+    to bottom right,
+    #f12711 0%,
+    #f5af19 100%
+  ) !important;
+  border-color: #f36214 !important;
+}
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem #f127119f;
+  box-shadow: 0 0 0 0.2rem #f127119f;
+}
+
+.primary-color-gradient {
+  background: linear-gradient(to bottom right, #f12711 0%, #f5af19 100%);
+  color: white;
+}
+
+.modal-header {
+  padding: 10px 1.75rem 8px !important;
+}
+
+.max-width-160 {
+  max-width: 160px !important;
+}
+.orange-color {
+  color: #ff6201;
+}
+.marginAuto {
+  margin: auto;
+}
+@media print {
+  p {
+    page-break-after: always;
+  }
+}
+.bottomLink span:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "pik-admin",
+      "script": "npm",
+      "args" : "start"
+    }
+  ]
+}

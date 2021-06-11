@@ -1,0 +1,26 @@
+{
+  "sidebar": {
+    "Dashboard": "Dashboard",
+    "Customers": "Clients",
+    "Drivers": "Pilote",
+    "Business": "Entreprise",
+    "Orders": "Commandes",
+    "Invoices": "Factures",
+    "Transactions": "Transactions",
+    "Custom Section": "Zone Personnalisée",
+    "Eagle": "Aigle",
+    "Settings": "Paramètres",
+    "Content Management": "Gestion De Contenu",
+    "Support Chat": "Support Chat"
+  },
+  "header": {
+    "Logout": "Se Déconnecter",
+    "Hi": "Salut"
+  },
+
+  "pages": {
+    "dashboard": {
+      "Site Statistics": "Statistiques Du Site"
+    }
+  }
+}

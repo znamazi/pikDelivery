@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "5f65b710d9628e49c4020320",
+    "firstName": "User 0",
+    "lastName": "",
+    "business": "5f5359626c4abc2a899889c9",
+    "password": "123456",
+    "email": "business_1@pikdelivery.com",
+    "mobile": "123456789",
+    "enabled": true
+  }
+]
